@@ -1,7 +1,0 @@
-FROM node:7-alpine
-
-MAINTAINER suresh varman
-
-WORKDIR /home/node/sample1
-
-RUN npm install yarn

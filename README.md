@@ -1,4 +1,9 @@
 ### Mahindra Assignment
 
 added migrations
-server side apis with
+
+Server APIs
+
+React and Redux
+
+Used my own module redux-async-transition
