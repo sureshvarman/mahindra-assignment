@@ -1,0 +1,33 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+#root > div:first-child {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.view-port {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.app-container {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.err {
+  color: #FF0000;
+}
+
+.success {
+  color: #00FF00;
+}

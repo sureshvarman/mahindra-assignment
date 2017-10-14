@@ -1,0 +1,14 @@
+[
+    {
+        "id": "Blog-1",
+        "createBy": "suresh",
+        "blogTitle": "Blog - 1",
+        "content": "My first blog ever"
+    },
+    {
+        "id": "Blog-2",
+        "createBy": "suresh",
+        "blogTitle": "Blog - 2",
+        "content": "My second blog, contains lot of abstraction"
+    }
+]

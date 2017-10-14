@@ -1,0 +1,33 @@
+export const ON_LOGIN = 'ON_LOGIN';
+export const ON_LOGIN_SUCCESS = 'ON_LOGIN_SUCCESS';
+export const ON_LOGIN_FAIL = 'ON_LOGIN_FAIL';
+
+export const ON_SIGNUP = 'ON_SIGNUP';
+export const ON_SIGNUP_SUCCESS = 'ON_SIGNUP_SUCCESS';
+export const ON_SIGNUP_FAIL = 'ON_SIGNUP_FAIL';
+
+export const ON_LOGIN_FORM_TYPE = 'ON_LOGIN_FORM_TYPE';
+export const ON_SIGNUP_FORM_TYPE = 'ON_SIGNUP_FORM_TYPE';
+
+export const LOGOUT = 'LOGOUT';
+
+export const REDIRECT = 'REDIRECT';
+
+export const ON_BLOGS_SUCCESS = 'ON_BLOGS_SUCCESS';
+export const ON_BLOGS_FAIL = 'ON_BLOGS_FAIL';
+export const ON_BLOGS = 'ON_BLOGS';
+
+
+export const ON_GET_BLOG_SUCCESS = 'ON_GET_BLOG_SUCCESS';
+export const ON_GET_BLOG = 'ON_GET_BLOG';
+export const ON_GET_BLOG_FAIL = 'ON_GET_BLOG_FAIL';
+
+export const ON_BLOG_FORM_EDIT = 'ON_BLOG_FORM_EDIT';
+
+export const ON_BLOG_EDIT_SUCCESS = 'ON_BLOG_EDIT_SUCCESS';
+export const ON_BLOG_EDIT = 'ON_BLOG_EDIT';
+export const ON_BLOG_EDIT_FAIL = 'ON_BLOG_EDIT_FAIL';
+
+export const ON_BLOG_CREATE_SUCCESS = 'ON_BLOG_CREATE_SUCCESS';
+export const ON_BLOG_CREATE = 'ON_BLOG_CREATE';
+export const ON_BLOG_CREATE_FAIL = 'ON_BLOG_CREATE_FAIL';
